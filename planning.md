@@ -12,6 +12,8 @@
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
 ---
+Campus Survival Guide for Carnegie Mellon University focused on topics like housing, dining, things to do around Pittsburgh and advice from students on alumini to better handle CMU life. 
+Althoug CMU provides settling in guides a lot of  useful knowledge is passed through unofficial channels like reddit. For examples, how to purchase meal blocks, or good study spots on campus.
 
 ## Documents
 
@@ -20,16 +22,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | cmu.guide| freebies you get with id| https://cmu.guide/MoochingOffCMU/ |
+| 2 | cmu | graduate student checklist |https://www.cmu.edu/oie/pre-arrival-and-settling-in/settling-in-guide/your-first-weeks/graduate-checklist.html |
+| 3 | cmu | cmu housing info | https://www.cmu.edu/oie/pre-arrival-and-settling-in/settling-in-guide/housing.html|
+| 4 | cmu.guide | dining options | https://cmu.guide/meal-plans/ |
+| 5 | cmu | student handbook  | pdf document |
+| 6 | reddit | pros and cons of cmu | https://www.reddit.com/r/cmu/comments/1s54fio/help_me_fall_in_love_with_cmu/|
+| 7 | reddit | study spots | https://www.reddit.com/r/cmu/comments/1j07hl1/best_spots_on_campus/ |
+| 8 |reddit | housing | https://www.reddit.com/r/cmu/comments/16y9hn/reference_thread_everything_you_ever_wanted_to/|
+| 9 | reddit | off-campus and on-campus activities | https://www.reddit.com/r/cmu/comments/1db47r/reference_thread_everything_you_ever_wanted_to/  |
+| 10 | Tepper  | Tepper Survival guide | pdf document |
 
 ---
 
