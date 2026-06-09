@@ -13,6 +13,22 @@ DATA_DIR = PROJECT_ROOT / "data"
 RAW_DIR = DATA_DIR / "raw"                         # Step 1 output: raw text
 CLEAN_DIR = DATA_DIR / "clean"                     # Step 2 output: cleaned text
 CHUNKS_PATH = DATA_DIR / "chunks.json"             # Step 3 output: final chunks
+CHROMA_DIR = PROJECT_ROOT / "chroma_db"            # M4: persistent vector store
+
+# --- Embedding / retrieval (Milestone 4) -----------------------------------
+EMBED_MODEL = "all-MiniLM-L6-v2"   # local sentence-transformers model
+COLLECTION_NAME = "unofficial_guide"
+TOP_K = 5                          # chunks retrieved per query (planning.md)
+
+# The 5 evaluation questions from planning.md, used to test retrieval here in
+# M4 and to drive the evaluation report in M5.
+EVAL_QUERIES = [
+    "Which specific bus lines should a student take to get from the Oakland campus to grocery stores in Shadyside?",
+    "What can students do for free with their Andrew ID?",
+    "What do students say are good study spots around campus?",
+    "What do students think are good on-campus and off-campus dining spots?",
+    "What housing options do first year graduate students have?",
+]
 
 # The single file that holds the 8 scraped web + reddit sources, mashed
 # together with no clean delimiter. We split it back apart on ingest.
