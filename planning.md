@@ -42,12 +42,16 @@ Althoug CMU provides settling in guides a lot of  useful knowledge is passed thr
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:** 
+Dynamic, roughly 400-800 characters per semantic block
 
 **Overlap:**
+Adaptive, sentences that cross semantic break thresholds are carried over to preserve continuity
 
 **Reasoning:**
+Since some of the documents are multi-page guides standard fixed chunking might not be suitable. Slicing text exactly at a character limit could split sentences and meaning leading to chunks without meaning.
 
+So with semantic chunking, the system will parse the documents sentence by sentence, compute embeddings, and only insert a chunk boundary when the semantic distance between sentences crosses a calculated threshold.
 ---
 
 ## Retrieval Approach
@@ -59,11 +63,14 @@ Althoug CMU provides settling in guides a lot of  useful knowledge is passed thr
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+all-MiniLM-L6-v2 via sentence-transformers
 
 **Top-k:**
+k = 5
 
 **Production tradeoff reflection:**
-
+If deploying this for a real university-wide product without budget constraints, all-MiniLM-L6-v2 would likely be replaced due to its restrictive 256-token context window. 
+Domain-Specific Jargon: CMU students rely heavily on lingo (e.g., CUC, Andrew IDs, CUC). A baseline model might misinterpret these. In production, we would consider implementing a robust Hybrid Search to guarantee exact keyword matches for specific location names like "CUC".
 ---
 
 ## Evaluation Plan
@@ -75,11 +82,11 @@ Althoug CMU provides settling in guides a lot of  useful knowledge is passed thr
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Which specific bus lines should a student take to get from the Oakland campus to grocery stores in Shadyside? | 75 or 71B |
+| 2 | What can students do for free with their andrew ID | Museums, art pass, fress buses. Also should include subscriptions.|
+| 3 | What do students say are good study spots around campus | Hunt, Sorells libraries|
+| 4 | What do students think are good on-campus and off-campus dining spots? | Correct distinction between on-campus and off-campus spots. Example, Scottys, Stackd, Millies - on-campus. Noodlehead, Shah's Halal place, Senyai - off-campus |
+| 5 | What housing options do first year graduate students have? | Shadyside, Okland, Squirrel Hull. No dorms available for graduate students.|
 
 ---
 
@@ -90,8 +97,9 @@ Althoug CMU provides settling in guides a lot of  useful knowledge is passed thr
      retrieval, chunks that split key information across boundaries. -->
 
 1.
-
+Some documents have images, this could lead to issues in chunking
 2.
+Sources include multi-page docs and reddit threads so there could be issues in boundaries or tone that might not translate well into embeddings
 
 ---
 
@@ -103,6 +111,13 @@ Althoug CMU provides settling in guides a lot of  useful knowledge is passed thr
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
+graph TD
+    A[Document Ingestion: pdfplumber & Raw Text Files] --> B[Chunking Strategy: Semantic Chunking via Sentence-Transformers]
+    B --> C[Embedding & Vector Store: all-MiniLM-L6-v2 + ChromaDB]
+    C --> D[Retrieval Approach: top-k = 5 Semantic Search]
+    E[User Query via Gradio Interface] --> D
+    D --> F[Grounded Generation: Llama-3.3-70b via Groq API]
+    F --> G[Cited Answer + Sources]
 ---
 
 ## AI Tool Plan
@@ -118,7 +133,19 @@ Althoug CMU provides settling in guides a lot of  useful knowledge is passed thr
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
+**Tool:** Claude 3.5 Sonnet / ChatGPT
+**Input:** My "Domain", "Documents", and "Chunking Strategy" sections
+**Expected Output:** A Python script that reads local text/PDF files, splits sentences, calculates embedding distance thresholds, and groups sentences into 400-800 character semantic chunks.
+**Verification:** I will print out 5 random chunks to confirm they are self-contained thoughts and assert that no chunks are empty or filled with raw HTML/formatting artifacts.
 
 **Milestone 4 — Embedding and retrieval:**
+**Tool:** Claude 3.5 Sonnet / GitHub Copilot
+**Input:** My "Retrieval Approach" section and the architecture diagram.
+**Expected Output:** A script that initializes a local ChromaDB instance, generates embeddings using `all-MiniLM-L6-v2`, stores the chunks along with metadata, and exposes a `retrieve(query, k=5)` function.
+**Verification:** I will query the vector store using 3 of my test questions and verify that the distance scores are under 0.5 and the returned text directly answers the query.
 
 **Milestone 5 — Generation and interface:**
+**Tool:** Claude 3.5 Sonnet
+**Input:** My "Evaluation Plan" and the CodePath boilerplate code for the Gradio interface.
+**Expected Output:** A script that hooks the Groq client (`llama-3.3-70b-versatile`) into the retrieval pipeline. The system prompt must strictly enforce that answers are derived only from the retrieved context and programmatically append the sources.
+ **Verification:** I will test it with an out-of-scope question (e.g., "What is the weather in Paris?") to confirm it safely declines to answer rather than hallucinating.
