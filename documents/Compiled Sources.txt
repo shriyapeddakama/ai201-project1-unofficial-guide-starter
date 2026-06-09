@@ -1,0 +1,506 @@
+Mooching off of CMU
+andrewid free stuff!
+Edit page on GitHub
+Last edited:May 21, 2026
+Contributors:Max Wen, Riztofu, Vidhaat Prashanth, terrificjesse
+Ask not what you can do for your [university], but what your [university] can do for you!
+� JFK, yeah JFK definitely said this
+In Person Benefits
+* Pittsburgh Arts Pass���https://www.cmu.edu/idplus/services/artspass.html�This is a perk associated directly with your CMU ID; you can present it at the entrance to any of the following locations for free admittance:
+* Carnegie Museum of Art
+* Carnegie Museum of Natural History
+* Phipps Conservatory and Botanical Gardens
+* Carnegie Science Center
+* Heinz History Center
+* Ft. Pitt Museum
+* Andy Warhol Museum
+* The Mattress Factory
+* The National Aviary
+* Pittsburgh Regional Transit (PRT) Bus Pass�With a CMU ID, you can use all of the PRT transportation options throughout the city for free, including the buses, light rail, and inclines!
+* CMU shuttle buses and escort services�CMU shuttle buses generally go through residential areas that might be a longer walk from the nearest bus stop, and the escort service is an overnight pickup system. Neither of these are likely to really be helpful your first year, but they�re good to be aware of. The shuttle service stops at many nearby grocery stores which may be useful.
+* Pittsburgh Cultural Trust���https://www.cmu.edu/staff-council/perks/index.html�Ignore the fact that this is from the staff council. Groups of CMU students, staff, and/or faculty are all given special rates when purchasing tickets for various arts venues and performance groups belonging to the Pittsburgh Cultural Trust. These groups include:
+* Pittsburgh Symphony Orchestra
+* Pittsburgh Opera
+* Pittsburgh Ballet Theater
+* Pittsburgh CLO
+* Pittsburgh Public Theater
+* AT&T���https://www.cmu.edu/hr/work-life/discounts/wireless.html�AT&T offers a 10% off plan for students. Information about using this discount is available on the site linked and does not necessarily require switching plans; if you�re already using AT&T, you might be able to get 10% off of your current plan.
+* Printing Quota�Ok this one is more of a shitpost but you have $40 of printing quota per semester, which is really 800 pages of black/white, ignoring the random discounts it gives sometimes. You can print whole books if you so choose.
+* AmTrak Student Discount���https://www.amtrak.com/student-discounts�AmTrak has a student discount of 15% (sometimes more) for travel planned in advance.
+* Car Insurance�No, we�re not kidding. A lot of car insurance companies offer discounts for students maintaining some certain GPA, usually 3.0. This will vary depending on the insurance company, your driving history, etc., but it�s definitely something to ask about if you drive.
+* ZipCar���https://www.cmu.edu/parking/about/zipcar.html�This offer is particularly for students who will be on the Pittsburgh campus, but there are several ZipCars available in the East Campus Garage by Gesling Stadium for those with valid drivers licenses who sign up for accounts. This can be helpful if you need to get somewhere pretty fast.
+* CFA Performances�All shows produced by the School of Drama are free for everyone with a CMU ID, and these have a reputation for being some of the highest quality university productions in the world. Similarly, performances by various elements of the School of Music are free to attend, some requiring ID and others being freely open to the public.
+Digital Benefits
+Free Things
+* New York Times���https://myaccount.nytimes.com/verification/edupass
+* Wall Street Journal���https://education.wsj.com/search-students/
+* Academic journals, databases, etc.���https://guides.library.cmu.edu/az.php
+* GitHub Pro���https://education.github.com/benefits
+* Overleaf Premium���https://www.overleaf.com/�You don�t actually need to sign up for anything yourself with this one since CMU handles it as an institutional discount. Just select the login with Google option in Overleaf, and then login with your Andrew ID as normal.
+* Microsoft���https://azureforeducation.microsoft.com/devtools�If you actually have a use for Microsoft�s Azure suite (nerd) then go nuts!
+* Grubhub Campus Dining�� Just download the Grubhub app, select Campus Dining, and search for CMU to get $0 Delivery Fees + various other Promo Deals!
+* Notion Plus���https://www.notion.com/product/notion-for-education
+* Figma Dev���https://www.figma.com/education/
+Discounts
+* Spotify Premium + Hulu + Showtime���https://www.spotify.com/us/student/�Spotify Premium plus Hulu and SHOWTIME for only $5 a month is pretty wild.
+* Amazon Prime���https://www.amazon.com/Amazon-Student/�Amazon is might be an evil corporation, but six months of free Prime and then half-off forever is a pretty sweet deal
+* Apple Music�� Honestly not sure why you�d go for this over the Spotify bundle, but your money is your money. The only URLs to this deal are whole paragraphs long so just use Google like the grown up that you are now
+* Microsoft���https://www.microsoft.com/en-US/store/b/education�Free Office-365 Suite is kind of nice for when Google Docs, Slides, etc. just aren�t enough, but the real deal here is on hardware if you need a new laptop or tablet.
+* HP���https://store.hp.com/us/en/cv/hp-education�Similar to above, a wide array of discounts on hardware.
+* Apple���https://www.apple.com/us-edu/store�Apple is a lot more particular about their sales and they usually aren�t going to give you as large of a discount as the others but they will give you AirPods and other goodies when you buy more expensive items
+* XFinity Streaming���https://xfinityoncampus.com/home�You can access a lot of movies and TV shows when on campus.
+Miscellany
+* LibKey Nomad Chrome Extension�� Brings up a very non-invasive button to access articles directly through JSTOR or other academic and scholarly databases on a wide range of websites as long as CMU Libraries has access to the article.
+
+Graduate Student Checklist
+Welcome Tartans!�We know the start of a new semester can be a busy and exciting time. Once you arrive on campus, you can use this checklist to stay on track during your first days.
+o Secure transitional housing�(if necessary).
+o Report to your academic department and complete registration procedures.�Your department may have other tasks for you.
+o Get your student ID card.�Distribution processes vary by department. To confirm your department's distribution plan, you can�contact your department�after August 1 for instructions and details. If your department will be distributing ID cards with The HUB, please bring�a form of government ID, such as a passport.
+o Attend�Graduate Student Orientation.�You will receive essential information and assistance in getting settled. Orientation is an opportunity to meet students from across campus and around the world. It�s also an opportunity to meet staff from a variety of Carnegie Mellon offices.�If you arrive later than the main orientation program deadline, you�must�inform the Office of International Education by emailing�oie@andrew.cmu.edu.�
+o Complete the�Mandatory International Student Orientation and Immigration Registration.�Immigration registration must be completed by the first day of classes to maintain your legal nonimmigrant status in the U.S.!
+o Find off-campus housing.�Review the information here and with the Carnegie Mellon�Off-Campus Housing Office�on finding housing that meets your specific needs and preferences. If you arrive early, be sure to visit the Community Housing Office on the second floor of the�Residence on Fifth, (412) 268-4990.
+o Open a bank account.�Take into consideration services and fees associated with checking and savings accounts, interest rates, wire transfer fees, ATM machine access, credit and debit card availability, as well as telephone and web banking. You may not want to open an account until you have secured housing as proximity to your residence is also an important consideration. In the meantime, you can find more information about�banking at CMU, and check out the following websites:
+o PNC Bank
+o Chase Bank
+o Citizens Bank
+o Dollar Bank
+o Buy health insurance for yourself and dependents�if you do not already have it. Health insurance is required by the university and is a necessity in the U.S. because the cost of routine and emergency health care is extremely expensive. For more information visit the�Health Services�website.
+o Apply for a�Social Security Number (SSN)�if you will be employed on campus. A Social Security Number is a number used for tax purposes that are required for employment in the US. You must have an offer of employment to be eligible to apply for an SSN. You can learn more about working on campus under the�Employment�section of our website.
+Housing
+Carnegie Mellon University offers a variety of housing services to international students and scholars. These services vary significantly depending on whether you are an international undergraduate (F & J students), graduate (F & J students), exchange student (J students), or an international scholar (visiting researcher or professor).
+Traditional dormitory style and apartment housing are maintained by CMU for undergraduate and exchange students during academic semesters. Graduate students and visiting scholars should expect to arrange their own housing at off-campus locations. You can find additional resources for your off-campus housing search on CMU's�Off-Campus Housing�website.
+Undergraduate On-Campus Housing and Move-In Day
+All new first-year students live in on-campus housing and some exchange students elect to live in on-campus housing maintained by CMU. There are traditional residential dormitories and apartment-style living options. First-year students must follow the instructions on the�Student Affairs website�and submit their Housing Application and Housing License Agreement as instructed.
+Please be advised that due to summer housing demands and building maintenance, you are not permitted to enter your living space before the official Move-In Day. More information is available on the�Housing Services�website.
+For parents and friends, CMU provides a list of�accommodations close to campus. Reservations will be necessary as this is a very busy time of the year. Be sure to ask for a CMU discount when making reservations.
+On-Campus Housing for Exchange Students
+On-campus housing for exchange students cannot be guaranteed�and exchange students who wish to be considered for on-campus housing must submit a housing application. Learn more�Refer to the�Housing Services�website�for more information.
+Off-Campus Housing
+New graduate students, visiting scholars and exchange students who do not live on campus will need to search for off-campus housing independently.�Navigating the search for off-campus housing can be one of the more challenging aspects for new international students and scholars. OIE recommends arriving several weeks before your start date so you have ample time to get settled before you become involved in life at CMU. A challenge for one-semester visitors is that it can be difficult to find a short-term lease; most leases are for a full year. Note: August and early September mark the start of the academic year at 10 local colleges and universities in Pittsburgh; new leases are at a premium at this time.�
+Housing in Pittsburgh is reasonably priced in comparison with other major U.S. cities. Most rental leases start on the first of each month, with the most common start dates being the first of June, July, August, and September. You can learn more on the�Off-Campus Housing�webpage for more detailed information on housing and related issues and to search CMU�s database of local apartment listings.
+Housing Services�offers�additional resources�for searching for off-campus housing on their�website.
+Renter�s Insurance
+Renter�s insurance is relatively inexpensive and should be purchased after arrival. Renter's insurance is highly recommended because the landlord�s property insurance policy that covers the physical dwelling will not cover your possessions inside of the building. Renter's insurance will cover your personal property, such as furniture or electronic equipment, should there be damage from fire, theft, etc.
+Neighborhoods in Pittsburgh
+The following neighborhoods are located within a two-mile radius of campus. They are grouped and listed according to their proximity and convenience to campus.�Off-Campus Housing�has more information about each of these�neighborhoods. Also, consider purchasing the�Pittsburgh Street Finder, a street guide to Pittsburgh and the surrounding areas available from Amazon.com.
+o Oakland, Shadyside and Squirrel Hill:�Most�CMU students choose to live in these three areas because they are closest to campus. Some residences are on the�Escort route.
+o Bloomfield, Greenfield:�These neighborhoods are farther away from campus but also within walking distance to�campus and on city bus routes.
+o Friendship, Point Breeze and Highland Park:�These are even farther away from�campus than those above but still within commuting distance and on city bus lines.�
+Different Types of Rental Housing
+Rental costs depend on location, size, condition and whether utilities (gas, water and electric) are included. Although you cannot - and should not - rent housing before you visit the actual location, informing yourself before you arrive and arriving early will make the housing search a much smoother and less anxious experience.
+o Room in Private Home:�One room with a shared bathroom and a shared kitchen located in a private home or a large house with many such rooms. These rooms are usually furnished.
+o Efficiencies/Studios:�A small one or two room combination of living room, kitchenette and bathroom.
+o 1, 2, 3+ Bedroom Apartments:�An apartment including one or more bedrooms, a living-dining area, a kitchen and a bathroom.
+o Houses:�A one or two family style home in which a group of students share kitchen and bathroom facilities. In addition to full houses, the area near the University has many town houses, which are built in rows sharing common walls between each dwelling. Some houses include a car garage, a basement and/or a yard.
+Resources to Use for Listing of Rental Housing Units
+The Carnegie Mellon Off-Campus Housing Office has its own�off-campus�housing listings�on the website.�Many students also use�Craigslist�or�Carnegie Mellon University electronic bulletin boards. To access�CMU bulletin boards, you will need an Andrew email account. You will receive email account information from your department as soon as it becomes available. Electronic bulletin boards are also a great place to find furniture and other necessary household items.�Off-Campus Housing�has complete instructions on how to subscribe to b-boards.
+Utilities and Paying Bills
+Bills in the U.S. are commonly paid by personal checks available through your U.S. bank. In most cases, you may set up automatic bill payment, which enables you to pay bills electronically, directly from your bank account.
+Some apartments may include utilities like gas, electric and water. However, in most cases, you will have to contact the utility companies directly to set up and pay for service for your apartment. When looking for an apartment, be sure to include the cost of utilities in your monthly rent estimate. It is strongly recommended that you request an estimate of the previous tenant�s utility bills by calling the utility company directly. Note that heating bills can be very high in the winter (over $100 depending upon the type of heat and size of the apartment). Listed below are some major utility providers:
+ELECTRICITY
+Duquesne Light
+1-888-393-7100
+
+FirstEnergy
+1-888-544-4877
+GAS
+Peoples Natural Gas
+1-800-764-0111
+LOCAL TELEPHONE
+Verizon
+1-800-660-2215
+Note: Some students are told that they need a U.S. Social Security Number (SSN) before they are able to establish telephone or other utility services. This information is incorrect. Students who do not have an SSN may have to complete an application and submit copies of documents (such as a passport and a student ID) and may have to pay a deposit. If the employee you are speaking with seems unaware of the procedure for starting service without an SSN, politely ask to speak with a manager or call back and talk to another employee.
+Temporary Hotel Accommodations
+Looking for hotels near campus? Whether you have guests coming to visit or need to stay somewhere for a few nights before your local housing is ready, CMU has a list of�local hotel accommodations�close to campus. Rates are per night, and reservations are necessary. Be sure to ask for a CMU discount when making reservations.
+Transitional Housing Options
+Most landlords and management companies in the Pittsburgh area require one-year leases for all of their properties and units. However, there are some companies that may be able to provide�short-term or temporary housing options.�
+For more information on off-campus housing, visit the�Off-Campus Housing website.
+
+Meal Plans
+How to use meal plans effectively
+Edit page on GitHub
+Last edited:May 21, 2026
+Contributors:Max Wen
+Dining at CMU is different from many other universities. As opposed to offering a few large dining halls that serve buffet-style meals, CMU offers numerous restaurant-style dining locations. You cannot grab a tray and load on whatever you like, you�re restricted to a meal block, CMU�s definition of a meal. (There is 1 location that is a traditional dining hall)
+As a freshman at CMU, you are required to purchase a meal plan. If you�re just skimming, follow the basic rule of:�buy the red plan, then if you get an apartment-style dorm, move to the yellow plan. You have a few weeks into the semester where you can change meal plans and get money back. The CMU freshman meal plans are almost always too much food to finish in one semester. On top of that, unused parts of your meal plan effectively are deleted at the end of each semester. They do not roll over or get refunded. Table 1 shows all the basic information for the different meal plans.
+Table 1: Meal Plan Information
+Plan
+Yellow
+Red
+Blue
+Green
+Cost per semester ($)
+1773
+3534
+3727
+3934
+Meal blocks
+125
+205
+252
+292
+Avg. meal blocks per week
+8.9
+14.6
+18
+20.8
+Flex dollars ($)
+190
+850
+520
+270
+Guest meal blocks
+0
+2
+2
+2
+Cost
+Meal plans are charged on a semester basis, so you will pay for 2 semesters total of your freshman meal plan. Red, blue, and green are similarly priced, while yellow is significantly cheaper. Yellow plan is only available to students living in apartment dorms on campus. There are much fewer apartment dorms than other options, so few freshmen will be allowed to purchase the yellow plan. However, if you are allowed to, it is recommended that you do.
+Meal Blocks
+At CMU, you�re allotted a certain amount of meal blocks, which the school considers to be a �meal� for you. The different meal blocks are described in Table 2.
+Table 2: Meal Block Definitions
+Meal Period
+Time
+Contents
+Breakfast
+3:30am - 10:29am
+Varies
+Lunch
+10:30am - 4:29pm
+Entree + Side + Drink
+Dinner
+4:30pm - 9:29pm
+Entree + 2 Sides + Drink
+Late Night
+9:30pm - 3:29am
+Entree + Side + Drink
+Every day from midnight to the next midnight, you are allowed to use 4 meal blocks total. Every meal period, you are allowed to use 2 meal blocks. You cannot use 3 meal blocks within a single meal period or more than 4 meal blocks in a day. Guest meal blocks bypass this restriction.
+You may read Table 1 and think, �I eat 3 meals a day, how will I get by on the recommended Red Plan?� Most commonly, people will occasionally skip meals or travel off campus for meals, which reduce meal blocks consumed. Also, the $850 in flex dollars can make up for needed meal blocks should you manage to finish all of them.
+Unused meal blocks do not roll over to the next semester. You also do not get refunded for unused meal blocks. Use as much of your meal plan as possible to avoid wasting money, because you paid for the entire meal plan upfront.
+Flex Dollars
+Flexible spending dollars (flex dollars) is �money� included with your meal plan. This �money� can be treated like cash at all on-campus dining locations and select off-campus locations. These can be used as a substitute to meal blocks, or for adding on additional items to a meal block purchase (such as an additional side or drink). There are also convenience stores on campus (Entropy+ and Scotty�s Market) which stock snacks and limited living supplies such as toiletries at an upcharge. Never go here with cash, only use flex dollars here unless absolutely necessary.
+However, beyond these locations the flex dollars have no use. Unfortunately, any unused flex dollars also do not roll over and are effectively destroyed at the end of the semester, like meal blocks.
+DineXtra
+DineXtra (dinex) can be used at the same places as flex dollars, but is not included with meal plans. Dinex can be purchased by itself without a meal plan, while flex dollars cannot be purchased. The only way to obtain flex dollars is by purchasing a meal plan. While dinex may feel limiting because of the locations accepting it, there is one reason to purchase it. For every $100 of dinex you purchase, you get 1% bonus added to your account. For example, if you purchase $500 of dinex you get an additional $25 (5% of $500) in dinex for free.
+Guest Meal Blocks
+Guest meal blocks can be treated as normal meal blocks and follow similar restrictions for entree/side/drinks. However, they bypass meal period and daily restrictions. You can purchase up to 4 meal blocks in a single meal period by using 2 guest blocks. You can purchase up to 6 meal blocks in a single day by using 2 guest blocks. Note that meal plans with guest blocks only include 2 for the entire semester.
+Final Thoughts
+You get a lot of meal blocks as a freshman. Unless you�re an athlete or someone who eats a ton, buy either the red or yellow plan. In order to not waste meal blocks, students will commonly sell or give meal blocks to upperclassmen who don�t have meal plans. As an upperclassman writing this, please do this as opposed to letting your meal blocks go to waste. The Discord server is a great place to complete these transactions efficiently.
+See Also
+* CMU Official Dining Plan Page
+* CMUEats
+* CMU Dining Locations
+Acknowledgements
+This document was originally created by Justin Peng (sauce_sauce).
+
+
+Help Me Fall in Love With CMU
+Original Post
+CMU is probably where I�m going to go after rejections from all the Ivies I applied to, and I�m very excited and happy with going to CMU, but for some reason my brain can�t comprehend the fact that getting into CMU is hard and a huge accomplishment and probably one of the best schools for my major/interest (business with CS, heavy analytical focus). It still feels like second best.
+This could just be side effects of grief or something.
+Current CMU students, help me fall in love with CMU! I�ll take anything: great things about Pittsburgh, campus life, student organizations, events, academics, etc.
+Edit: Thank you all so much for the encouragement and advice. Very excited to attend this fall.
+
+Comment 1
+You know that little $4.3 trillion company called NVIDIA, the one behind the AI revolution?
+Their CEO, Jensen Huang, is our commencement speaker this year. He could have chosen all those schools that rejected you, but he chose CMU.
+That should tell you something about our business and CS programs.
+
+Comment 2
+I�m an alum from almost 20 years ago. CMU was my second choice too, so I can relate. Looking back, I ended up at exactly the right place.
+CMU does an exceptional job of giving passionate people opportunities to dive deeply into what they care about. It doesn�t even have to be your major. There are student organizations for almost everything, and if one doesn�t exist, you can create it. One of my friends turned a club he started into his career.
+I also absolutely loved Pittsburgh. The weather can be rough, but it�s an incredible city for students because you can actually enjoy it on a student budget. There�s outdoor recreation, cultural activities, and a huge student population. I live in NYC now and love it, but Pittsburgh was a much better place to be when I was a student.
+Interestingly, many of my friends today are CMU alumni whom I never met in school. It says something about the kind of people CMU attracts.
+
+Comment 3
+I went to CMU for grad school.
+Embrace the history. While many Ivy League schools were founded to educate the wealthy, CMU was founded to help the children of factory workers improve their lives. It has always been a place for ambitious people who want to build things and solve problems.
+
+Comment 4
+CMU is a great school and you�ll be challenged academically.
+I graduated two years ago and ended up staying in Pittsburgh because I loved the city. The people are friendly and genuinely proud of where they come from.
+Some of my favorite experiences:
+* Pirates games at PNC Park 
+* Penguins hockey games 
+* Visiting museums 
+* Phipps Conservatory 
+* Pittsburgh Symphony Orchestra performances 
+* Theater and arts events 
+The free student bus pass makes the city easy to explore.
+Also, most students are from outside Pittsburgh, so everyone is looking to build new friendships. Most of my peers who put in the work now work at places like NVIDIA, Apple, and Google.
+
+Comment 5
+For CS, MIT, CMU, Stanford, and Berkeley are all in the same elite tier.
+CMU has been ranked #1 for computer science multiple years in a row. Getting into CMU is not settling. It�s choosing one of the very best programs in the world.
+
+Comment 6
+Go on LinkedIn and look at employees at major tech companies. Look at how many CMU graduates work there.
+That alone should convince you.
+
+Comment 7
+CMU was the best decision I�ve ever made and it has carried me far in life.
+Something I�ve noticed is that many people view CMU as more impressive than some Ivy League schools, depending on the field.
+Remember: Ivy League is an athletic conference, not a ranking of academic quality. Schools like CMU, MIT, and Stanford absolutely belong in the same conversation.
+
+Comment 8
+CMU is home to one of the best robotics programs in the world.
+A huge amount of innovation in machine learning and robotics comes out of Pittsburgh.
+Within technical fields, CMU students are often more focused on developing deep technical expertise than students at many Ivy League schools.
+Personally, I would rather be here than anywhere else for my degree.
+
+Comment 9
+You are way better off at CMU for your intended major.
+CMU is effectively the Ivy League school for business plus computer science.
+A lot of college admissions comes down to institutional fit. CMU admitted you because they believed you were a great fit for one of their strongest programs.
+
+Comment 10
+I�m a part-time MBA student.
+The Tepper professors are excellent. Their focus on AI, quantitative skills, and technological innovation is incredibly valuable.
+Pittsburgh also surprised me. It�s probably the most underrated city in the U.S. Great food, beautiful scenery, affordable nightlife, and friendly people.
+
+Comment 11
+As a CMU parent from Silicon Valley, I�m extremely impressed with Pittsburgh.
+It�s one of the most underrated cities in America: beautiful, affordable, easy to navigate, and full of things to do.
+CMU has world-class resources and top-tier programs.
+
+Comment 12
+I had the same experience. I got rejected from a lot of top schools and eventually visited CMU.
+After visiting, I loved it.
+The student body is small enough that you get access to professors and resources. The campus is beautiful and Pittsburgh strikes a nice balance between a major city and a traditional college town.
+
+Comment 13
+You are going to meet some of the smartest people you�ve ever known and make memories that last a lifetime.
+Also, CMU wants students to succeed. The university provides an enormous number of resources. Use office hours, talk to advisors, and ask for help when you need it.
+
+Comment 14
+I�ve met Harvard alumni who told me they wished they had gone to CMU.
+I�ve also met Ivy League graduates who came to CMU for graduate school.
+
+Comment 15
+I was hesitant about both CMU and Pittsburgh.
+I ended up loving both.
+Pittsburgh
+* Great nightlife 
+* Great food 
+* Sports 
+* Arts and culture 
+* Good public transportation 
+* Affordable housing 
+CMU
+* Much more social than its reputation suggests 
+* Plenty of opportunities to make friends 
+* Strong club culture 
+* Fun traditions like Carnival 
+Business is becoming increasingly technology-focused. Having CMU on your resume gives you a unique advantage because of its reputation in technical fields.
+
+Comment 16
+CMU is arguably the best computer science school in the world.
+
+Comment 17
+Pittsburgh is an S-tier American city.
+
+Comment 18
+CMU opens doors.
+I graduated in 1998 and it still carries weight professionally today.
+
+Comment 19
+I got rejected from every Ivy and ended up at CMU.
+Ten years later, I have never regretted it.
+Beyond the education, Pittsburgh is fantastic: food, arts, sports, parks, and a great quality of life.
+One of my favorite summers was spent there.
+
+Comment 20
+Do not be sad about coming here.
+You�ll be amazed by the opportunities available to you and by the intelligence and creativity of the people around you.
+
+Best Spots on Campus?
+What are the some of the best study spots, restaurants, etc. to check out on campus. I�ll be visiting Carnegie Mellon soon to see if I want to commit here and I�d love any recs!
+
+Definitely take a tour because that will answer a lot of questions! There aren�t a ton of great restaurants on campus, but Craig St has a ton of great places (Eat Unique, Bao) that are a 5 minute walk. Off campus there�s a ton of places in Shadyside such as Mercurio's or Pamela's. For study spots, Gates, Tepper, and Highmark are great places to study.
+
+Honestly this is probably the best answer. Not to be a hater (or maybe trying to be a little bit of a hater), but from what I remember, these are your only other options:
+Tepper
+Pros
+* Very nice and modern 
+* Nice seating 
+* Nice equipment 
+* Plenty of collaboration space 
+Cons
+* They keep it really cold for some reason. Bring a jacket or be prepared for your fingers to freeze. 
+* Really spread out. I pee a lot. If I'm getting up while studying, I don't want to have to circumnavigate the earth like Magellan to empty my bladder. 
+* Not enough vending machines. Studying makes you hungry. 
+* Water fountains located near the bathroom. God forbid your piss schedule and your water bottle refill schedule are slightly off and now you have to make two trips to the exact same spot. 
+Hunt
+* Weird smell sometimes (maybe that was just me though) 
+* Basement has no windows 
+* Very monochromatic and outdated decor 
+Wean
+What do you want me to say?
+
+I graduated many years ago, but return to Pittsburgh for 4�6 weeks every year. Every time I am there I hang out on campus and work from Tepper for a few days.
+Looking forward to Spring Carnival 2025!
+
+The basement of Donner Hall or the Doherty backrooms.
+
+Correct answer.
+
+I like studying in Hunt. There are chiller floors to study with friends and then a quiet floor to lock in. Gates and Scaife also have a bunch of places to study alone or with friends.
+Also this isn�t on campus but you should go to Squirrel Hill and walk around the block of Forbes between Murray and Shady and then on Murray from the Forbes intersection down to Hobart. There�s a ton of good restaurants and little shops there including a really awesome vintage store called Steal City :)
+
+I love all the people suggesting Squirrel Hill! That was never an option for me (maybe I never hung out with anyone that studied there, idk) but that's super cool.
+It's kind of funny when you think about it that most people here are recommending physically leaving the university you attend to study for the classes at the university you attend.
+Thanks CMU.
+
+I like the windows that overlook the football field in the Cohon Center. Nice sitting area.
+
+Ice cream from Millie�s at the business building, Tepper!
+And also CFA / Gates is pretty cool.
+
+There are tons of places to study. My go-tos are usually the upper floors of Scaife, or floor B or 1 of ANSYS.
+
+Graduate Student Lounge (CUC)
+Rotunda Patio when it�s not winter (HBH)
+Collaboration Space near A301 (HBH)
+La Prima (GHC)
+There�s also a place on the 6th floor of GHC with sofas.
+Sorrells Library.
+
+I personally did not love the campus.
+I don't think there are enough trees, and I think the Mall is stupid and unneeded. They should plant trees there.
+Why are there chairs in the Mall? How does it seem sensible and comforting to sit while staring directly at the sun?
+Anyway, I studied in Gates usually because it was kind of the only option.
+Where else am I gonna go? Wean? Hunt?
+Oh, and Sorrells.
+
+Everything You Ever Wanted to Know About CMU Housing, On and Off Campus
+An idea from another thread on increasing the activity in this subreddit was to have reference posts about common questions, like what to do in Pittsburgh, info on classes and professors, etc. So, let's start the first one.
+Leave a comment with any info you'd like to share about housing, whether it's on campus or off campus. Ideas include which dorms are best, tips on living on campus, personal experiences with H&DD, which off-campus neighborhoods you like most, management companies that suck/rule, and so on. Think about replying in a way that's useful to newly admitted students and/or current students looking to move off campus.
+
+The few tips I have:
+Move off campus ASAP. Nicer apartments, fewer restrictions, cheaper rent. Get a bunch of friends and rent a house if you can, and you like living with other people. (I hate everyone so I have a 1br to myself.)
+Shadyside is an awesome neighborhood but can be expensive; Squirrel Hill can be cool and is generally more inexpensive than Shadyside but run-down; Oakland is dirt cheap and you can tell, but you're in the middle of a good neighborhood for going out.
+If you do stay on campus, block housing is awesome if you have a group of friends who all want to live together.
+The CMU apartments in Oakland are gender-neutral! I moved in with my partner for my sophomore and junior years and it was rad.
+
+I'll just copypaste my post from another housing thread:
+Everything after coming into freshman year is the same. You have three options:
+1. Participate in the housing lottery 
+2. Get pulled into an existing housing group 
+3. Leave campus housing and find your own off-campus housing 
+Electing to participate means you sign some electronic forms, and they give you a lottery number. This number determines when you get to pick your housing room/location. Lower is better.
+Upperclassmen pick before underclassmen (seniors first, then juniors, then sophomores).
+You pick roommates and then choose your room depending on who has the lowest lottery number. If you don't have a roommate, you'll be randomly assigned one.
+You obviously cannot pick a freshman-only dorm.
+The second option, getting pulled in, means a friend who already has housing has a vacancy in their room, and you become their roommate. In this case you do not get a lottery number.
+The third option is finding off-campus housing on your own.
+Keep in mind that once you leave campus housing and go off campus, it is very difficult (maybe impossible) to come back to campus housing in a following year.
+There are nuances and edge cases such as block housing and special-interest housing, but that's the general gist of it.
+Most sophomores end up in Morewood. The best dorms (West Wing/Resnik) are usually filled by seniors and juniors.
+If you're currently a freshman, I'd suggest finding a bunch of rooms as options that interest you in Morewood.
+
+Apparently this year they're doing general room selection by random time slots, just like registering for classes.
+I emailed Housing and Dining earlier about single housing and they told me they're changing it up. Though it's essentially the same.
+
+And to copy what I said regarding returning to campus housing from off-campus housing:
+Actually, to be clear:
+Students who are currently living off-campus, are living in Greek housing, or are returning from a leave of absence and want to live in university housing should complete the Upper-Class Housing Waitlist Application in order to request university housing for the 2012�2013 academic year.
+Students who are not currently living in university housing are NOT eligible to participate in Block Housing, General Room Selection, Room with a Retainer (pull-ins), or any other phase of Room Selection.
+The only exception is for students who are applying for and are hired as an RA or CA for the upcoming academic year.
+Basically, you can't go through the normal process. You can fill out that application. But from what I hear, there's already often not enough room for the people already in the process.
+
+Regarding off-campus housing: start looking early.
+Don't put it off until the last minute.
+Try to find as much information as you can about a place before committing.
+Things to consider:
+* Cost (rent and utilities) 
+* Distance to CMU 
+* Distance to grocery stores and food 
+* How old the building is 
+* How well the heating works 
+* General condition of the property 
+
+The CMU escort service is great if you live farther off campus.
+They come every 30 minutes and will take you to many street intersections.
+I catch the yellow bus behind Tepper all the time and it takes me within 100 feet of my house.
+Edit: it runs from 6:30 PM to 6:00 AM.
+
+Everything You Ever Wanted to Know About What to Do on Campus and in Pittsburgh
+Post any recommendations for stuff to do on or around campus (e.g. UC game room, half-price in Oakland, stuff in the Waterfront)! Clubs/organizations that aren't affiliated with CMU are appropriate for this thread, as are general Pittsburgh events, like Cinema In The Park.
+
+I'll start, I suppose :P
+On campus
+I like the UC game room. There's an ITG machine, pinball, ping pong, foosball, and pool tables.
+There are $1 movies in the UC on Thursdays, Fridays, and Saturdays. ($3 for non-students.)
+Off campus
+The Waterfront has a movie theater, restaurants, and stores. You can grab a bus there.
+Oakland is by campus, and there are lots of museums and places to eat.
+Schenley Park is literally next to campus (across the street from Baker & Porter Hall). Flagstaff Hill is a nice place to go chill on pleasant days.
+
+Ahhh now I want to go to Schenley but have to finish final projects...
+...
+Fuck it, gonna graduate anyway.
+
+If you go down the road between Doherty and Gates, and turn right so you go through the CIC parking garage, then turn left at Neville Street, follow that until you can either go up a steep hill or turn left (turn left there) and continue on until you see a bike path, take that bike path until you reach another bike path, take that until you go through a parking lot, and then cross the first bridge on your left, you'll be in Southside.
+Here's a map, because I suck at directions:
+Holy crap, Southside.
+
+What!? '11 Alum here... mind blown.
+
+It's even crossing the Hot Metal Bridge, which has a pedestrian/cyclist bridge next to the one for cars!
+
+Pittsburgh has several excellent indie movie theaters run by Pittsburgh Filmmakers. $4 for CMU students.
+Garfield Artworks on Penn Ave invites touring musicians to play in Pittsburgh every week. $7 last I checked, although that might have changed.
+Both of these institutions stand up very well to the kind of stuff that you'd find in, say, NYC.
+
+Off-campus
+Museums! So many museums.
+The Arts Pass Program lets you get into a bunch of them for free. This includes:
+* Carnegie Art Museum 
+* Carnegie Natural History Museum 
+* Phipps Conservatory 
+* Mattress Factory 
+* Carnegie Science Center 
+* And more 
+For movies still in theaters, there's the Waterfront, which also has stores like Target and many restaurants.
+Oakland:
+* Lots of food places 
+* Many offer half-price food after 11 PM 
+* Some bars 
+* Right by Pitt's campus 
+Squirrel Hill:
+* More food places 
+* Ice cream 
+* Other shops and attractions 
+Parks:
+* Schenley Park 
+* Frick Park 
+On-campus
+AB Films shows movies for $1 for students ($3 for non-students) almost every Thursday, Friday, Saturday, and sometimes Sunday.
+"Scotland Yard" (the game room) in the basement of the UC has:
+* Foosball 
+* Shuffleboard 
+* Pool tables 
+* Pinball 
+* In The Groove (DDR-style game) 
+* Ping-pong tables 
+* Snack and drink vending machines 
+Club and organization events that are open to the public:
+* Online Gaming Society events 
+* Scotch'n'Soda shows 
+* Improv shows 
+* Late Night events on Fridays and Saturdays 
+I'm sure I'm forgetting some things, but those are the broad categories of stuff to do in the general vicinity of CMU.
+
+Right here you can find a listing of all of the places a CMU student ID gets you access to under the Arts Pass Program.
+Also, here's a probably not all-inclusive list of some of the places that do half-price.
+
+Thanks! I didn't feel like searching :P
+
+Schenley Park has a disc golf course.
+It's definitely on the easy side compared to other courses, but it's laid out very well and makes for a nice relaxing afternoon when the weather's nice.
+If you've never played disc golf before, you can give it a shot with a regular ultimate disc, but for under $20 you can pick up a mid-range disc and putter either online or at Dunham's.
+
+Parks!
+RAD Days (free stuff).
+
